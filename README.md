@@ -10,3 +10,4 @@ add an moveit_ik_demo3.py for gpt-server as a doctor
 
 add an images.py for yolov8 object detection
 
+# Attention, these file are all located in interbotix_ws/src/interbotix_demos/src directory, which means use the interbotix_demos package to run
